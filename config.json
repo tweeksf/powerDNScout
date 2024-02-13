@@ -1,0 +1,8 @@
+{
+    "SHODAN_API_KEY": "YOUR_SHODAN_API_KEY",
+    "use_socks": true,
+    "socks_proxy": {
+        "host": "localhost",
+        "port": 9150
+    }
+}

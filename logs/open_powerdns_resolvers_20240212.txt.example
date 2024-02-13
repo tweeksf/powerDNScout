@@ -1,0 +1,927 @@
+Summary:
+
+IP: 167.172.48.156
+Country: United Kingdom 
+Org: DigitalOcean, LLC
+
+DNS queries:
+Domain: ip.parrotdns.com, Count: 101, Query Type: A
+Domain: dnsscan.shadowserver.org, Count: 53, Query Type: A
+Domain: www.google.com, Count: 52, Query Type: A
+Domain: testip.internet-census.org, Count: 47, Query Type: A
+Domain: baidu.com, Count: 34, Query Type: A
+Domain: www.solidot.org, Count: 33, Query Type: A
+Domain: www.wikipedia.org, Count: 23, Query Type: A
+Domain: a7ac309c.asertdnsresearch.com, Count: 18, Query Type: A
+Domain: cyberresilience.io, Count: 17, Query Type: A
+Domain: direct.shodan.io, Count: 14, Query Type: A
+Domain: google.com, Count: 20, Query Type: A, TXT, MX, SOA
+Domain: aaa.stage.15790461.ns1.1U1gpUP5i8KbTVCTq9PeakbLHhZk.com, Count: 13, Query Type: TXT
+Domain: rr-mirror.research.nawrocki.berlin, Count: 13, Query Type: A
+Domain: a7ac309c-202401232-1000ps-rate.l-rate.secshow.net, Count: 12, Query Type: A
+Domain: www.baidu.com, Count: 12, Query Type: A
+Domain: hm.com, Count: 11, Query Type: TXT
+Domain: realtor.com, Count: 11, Query Type: TXT
+Domain: ebay.com, Count: 8, Query Type: TXT
+Domain: www.yahoo.com, Count: 8, Query Type: A
+Domain: a.gtld-servers.net, Count: 8, Query Type: A
+Domain: a.root-servers.net, Count: 8, Query Type: A
+Domain: chron.com, Count: 7, Query Type: TXT
+Domain: lenovo.com, Count: 7, Query Type: TXT
+Domain: clients1.google.com, Count: 7, Query Type: A
+Domain: coupons.com, Count: 7, Query Type: TXT
+Domain: wired.com, Count: 7, Query Type: TXT
+Domain: www.cybergreen.net, Count: 7, Query Type: A
+Domain: aaa.stage.whatever, Count: 7, Query Type: TXT
+Domain: dns-test.research.a10protects.com, Count: 7, Query Type: TXT
+Domain: box.com, Count: 7, Query Type: TXT
+Domain: test7200-1.xjtu-rise-1.top, Count: 7, Query Type: A
+Domain: payoneer.com, Count: 6, Query Type: TXT
+Domain: www.example.com, Count: 6, Query Type: A
+Domain: chase.com, Count: 6, Query Type: TXT
+Domain: babycenter.com, Count: 5, Query Type: TXT
+Domain: kohls.com, Count: 5, Query Type: TXT
+Domain: microsoft.com, Count: 5, Query Type: TXT
+Domain: whitepages.com, Count: 5, Query Type: TXT
+Domain: lanacion.com.ar, Count: 5, Query Type: TXT
+Domain: comcast.com, Count: 4, Query Type: TXT
+Domain: fiverr.com, Count: 4, Query Type: TXT
+Domain: tstng.net, Count: 3, Query Type: A
+Domain: macys.com, Count: 3, Query Type: TXT
+Domain: weather.com, Count: 3, Query Type: TXT
+Domain: ., Count: 4, Query Type: NS, A
+Domain: hp.com, Count: 3, Query Type: TXT
+Domain: overseas.167.172.48.156.0.test.whitechun.lol, Count: 3, Query Type: A
+Domain: nokia.com, Count: 3, Query Type: TXT
+Domain: gap.com, Count: 2, Query Type: TXT
+Domain: a7ac309c.d1201.savme.xyz, Count: 2, Query Type: A
+Domain: aaa.stage.no.offence, Count: 2, Query Type: TXT
+Domain: 2813079708.round2024-01-03.odns.m.dnsscan.top, Count: 2, Query Type: A
+Domain: 500px.com, Count: 2, Query Type: TXT
+Domain: www.163.com, Count: 2, Query Type: A
+Domain: priceline.com, Count: 2, Query Type: TXT
+Domain: nordstrom.com, Count: 2, Query Type: TXT
+Domain: bodybuilding.com, Count: 2, Query Type: TXT
+Domain: 167.172.48.156.1705316400.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: ad, Count: 1, Query Type: SOA
+Domain: ae, Count: 1, Query Type: SOA
+Domain: sb9s2u.a7ac309c.n35826.drakkarns.com, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.05245183-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: 167.172.48.156.1704106800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1707130800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1707735600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1704711600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1705921200.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1706526000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 167.172.48.156.1703502000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.15245183-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.25245183-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: 2813079708.round2023-12-27.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 2813079708.round2024-01-17.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 2813079708.round2024-02-07.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: a7ac309c-202401101.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401201.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401301.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401121.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401231.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401051.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401061.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401161.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401071.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401081.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401091.l.secshow.net, Count: 1, Query Type: A
+Domain: a7ac309c-202401191.l.secshow.net, Count: 1, Query Type: A
+Domain: au, Count: 1, Query Type: SOA
+Domain: adriennepeters.eu, Count: 1, Query Type: RRSIG
+Domain: b6cwq7.a7ac309c.n29064.drakkarns.com, Count: 1, Query Type: A
+Domain: c1.167-172-48-156.xfaoi.v41.n64.top, Count: 1, Query Type: TXT
+Domain: jl2uzm.a7ac309c.n10029.drakkarns.com, Count: 1, Query Type: A
+Domain: myspace.com, Count: 1, Query Type: TXT
+Domain: 5n5ra0.a7ac309c.n41250.drakkarns.com, Count: 1, Query Type: A
+Domain: com, Count: 1, Query Type: A
+Domain: jolqfl.a7ac309c.n30486.drakkarns.com, Count: 1, Query Type: A
+
+Remote clients:
+210.13.77.83   : CUII CHINA UNICOM Industrial Internet Backbone, CN
+198.98.54.58   : PONYNET, US
+95.216.205.116 : HETZNER-AS, DE
+107.189.29.130 : PONYNET, US
+185.16.39.29   : MEVSPACE, PL
+199.43.206.245 : FIBERHUB, US
+66.23.234.138  : IS-AS-1, US
+167.172.48.157 : DIGITALOCEAN-ASN, US
+95.214.53.134  : MEVSPACE, PL
+199.195.252.122: PONYNET, US
+51.222.155.36  : OVH, FR
+185.94.111.1   : HLL-AS, RU
+51.222.155.85  : OVH, FR
+45.150.65.250  : STARK-INDUSTRIES, GB
+193.35.18.13   : PFCLOUD, DE
+139.99.46.21   : OVH, FR
+185.233.19.253 : HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd., HK
+70.70.70.4     : SHAW, CA
+172.59.0.56    : T-MOBILE-AS21928, US
+178.32.119.243 : OVH, FR
+223.113.128.138: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+94.102.61.31   : INT-NETWORK, SC
+104.220.175.38 : AS-WAVE-1, US
+8.217.254.174  : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+104.234.70.63  : FIBERSTATE, US
+152.32.156.117 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+198.98.52.218  : PONYNET, US
+185.91.127.66  : FERDINANDZINK, DE
+183.136.225.44 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+183.136.225.45 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+91.92.245.206  : LIMENET, US
+93.123.85.80   : MORTALSOFT, GB
+101.68.211.2   : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+141.22.28.227  : DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+147.203.255.20 : AIS-WEST, US
+45.95.169.184  : MAXKO, HR
+107.189.29.187 : PONYNET, US
+146.88.241.221 : ARBOR, US
+167.94.138.49  : CENSYS-ARIN-01, US
+117.34.106.5   : CHINANET-SHAANXI-CLOUD-BASE CHINANET SHAANXI province Cloud Base network, CN
+66.90.72.34    : FDCSERVERS, US
+131.159.25.7   : TUM-RBG, DE
+192.87.173.56  : SURFNET-NL SURFnet, The Netherlands, NL
+202.117.43.253 : ERX-CERNET-BKB China Education and Research Network Center, CN
+52.73.169.169  : AMAZON-AES, US
+104.148.16.45  : LAYER-HOST, US
+107.189.14.247 : PONYNET, US
+183.136.225.42 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+195.221.58.3   : FR-RENATER Reseau National de telecommunications pour la Technologie, FR
+51.222.205.36  : OVH, FR
+185.100.87.136 : FLOKINET, SC
+167.94.138.52  : CENSYS-ARIN-01, US
+162.142.125.220: CENSYS-ARIN-01, US
+183.136.225.46 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+179.43.145.194 : PLI-AS, PA
+167.94.138.127 : CENSYS-ARIN-01, US
+47.90.250.21   : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+136.243.205.36 : HETZNER-AS, DE
+104.28.212.40  : CLOUDFLARENET, US
+223.113.128.133: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+162.142.125.223: CENSYS-ARIN-01, US
+167.94.138.125 : CENSYS-ARIN-01, US
+152.32.235.206 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.193.39.176 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+101.36.114.124 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.193.47.114 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.100.42 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.159.180 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.235.96  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.243.98  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+128.14.239.39  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+101.36.121.119 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.243.245 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+209.141.47.144 : PONYNET, US
+152.32.180.138 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+45.150.131.78  : CAT-CLOUD-AP CAT Telecom Public Company Limited, TH
+118.194.238.196: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.193.47.212 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+101.36.114.198 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.100.58 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+119.167.222.135: CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+118.194.236.134: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.118.215: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+84.54.51.12    : PFCLOUD, DE
+152.32.140.12  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.194.250.2  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+45.128.232.82  : PFCLOUD, DE
+118.193.56.149 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.171.191 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+101.36.110.24  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+216.158.231.46 : IS-AS-1, US
+165.154.182.154: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+146.88.241.220 : ARBOR, US
+152.32.133.128 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.119.20 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+128.14.239.217 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.129.130: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.139.190 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+193.10.227.206 : SUNET SUNET Swedish University Network, EU
+
+IP: 97.107.134.230
+Country: United States 
+Org: Linode
+
+DNS queries:
+Domain: direct.shodan.io, Count: 126, Query Type: A
+Domain: ip.parrotdns.com, Count: 51, Query Type: A
+Domain: baidu.com, Count: 30, Query Type: A
+Domain: dnsscan.shadowserver.org, Count: 28, Query Type: A
+Domain: testip.internet-census.org, Count: 25, Query Type: A
+Domain: www.google.com, Count: 25, Query Type: A, TXT
+Domain: 1.0.0.127.IN-ADDR.ARPA, Count: 16, Query Type: PTR
+Domain: www.solidot.org, Count: 16, Query Type: A
+Domain: aaa.stage.15790461.ns1.1U1gpUP5i8KbTVCTq9PeakbLHhZk.com, Count: 14, Query Type: TXT
+Domain: www.example.com, Count: 14, Query Type: A
+Domain: www.baidu.com, Count: 14, Query Type: A
+Domain: www.wikipedia.org, Count: 11, Query Type: A
+Domain: ., Count: 9, Query Type: NS
+Domain: cyberresilience.io, Count: 9, Query Type: A
+Domain: rr-mirror.research.nawrocki.berlin, Count: 8, Query Type: A
+Domain: www.example.edu, Count: 8, Query Type: A
+Domain: example.edu, Count: 8, Query Type: A
+Domain: \.\., Count: 8, Query Type: nessus
+Domain: 230.134.107.97.in-addr.arpa, Count: 8, Query Type: PTR
+Domain: nokia.com, Count: 8, Query Type: TXT
+Domain: localhost, Count: 8, Query Type: A
+Domain: 616b86e6.asertdnsresearch.com, Count: 8, Query Type: A
+Domain: hp.com, Count: 7, Query Type: TXT
+Domain: ebay.com, Count: 6, Query Type: TXT
+Domain: realtor.com, Count: 6, Query Type: TXT
+Domain: www.yahoo.com, Count: 6, Query Type: A
+Domain: gap.com, Count: 5, Query Type: TXT
+Domain: wired.com, Count: 4, Query Type: TXT
+Domain: google.com, Count: 7, Query Type: A, MX, SOA
+Domain: box.com, Count: 4, Query Type: TXT
+Domain: aaa.stage.whatever, Count: 4, Query Type: TXT
+Domain: dns-test.research.a10protects.com, Count: 4, Query Type: TXT
+Domain: a.gtld-servers.net, Count: 4, Query Type: A
+Domain: chron.com, Count: 3, Query Type: TXT
+Domain: www.cybergreen.net, Count: 3, Query Type: A
+Domain: a.root-servers.net, Count: 3, Query Type: A
+Domain: kohls.com, Count: 3, Query Type: TXT
+Domain: chase.com, Count: 3, Query Type: TXT
+Domain: babycenter.com, Count: 3, Query Type: TXT
+Domain: payoneer.com, Count: 3, Query Type: TXT
+Domain: hm.com, Count: 3, Query Type: TXT
+Domain: whitepages.com, Count: 3, Query Type: TXT
+Domain: microsoft.com, Count: 2, Query Type: TXT
+Domain: github.com, Count: 2, Query Type: A
+Domain: nordstrom.com, Count: 2, Query Type: TXT
+Domain: lenovo.com, Count: 2, Query Type: TXT
+Domain: stackoverflow.com, Count: 2, Query Type: A
+Domain: clients1.google.com, Count: 2, Query Type: A
+Domain: tstng.net, Count: 2, Query Type: A
+Domain: bodybuilding.com, Count: 2, Query Type: TXT
+Domain: coupons.com, Count: 2, Query Type: TXT
+Domain: priceline.com, Count: 2, Query Type: TXT
+Domain: 1634436838.round2024-01-24.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 97.107.134.230.1706526000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 1634436838.round2024-02-07.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: adriennepeters.eu, Count: 1, Query Type: RRSIG
+Domain: 97.107.134.230.1705921200.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 97.107.134.230.1707735600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 97.107.134.230.1707130800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: au, Count: 1, Query Type: SOA
+Domain: 1706787587.616B86E6.2024-02-01-00-02-NXD.open-resolver-scan.research.icann.org, Count: 1, Query Type: TXT
+Domain: macys.com, Count: 1, Query Type: TXT
+Domain: ms11-058.t.nessus.org, Count: 1, Query Type: NAPTR
+Domain: aaa.stage.no.offence, Count: 1, Query Type: TXT
+Domain: ae, Count: 1, Query Type: SOA
+Domain: fiverr.com, Count: 1, Query Type: TXT
+Domain: ad, Count: 1, Query Type: SOA
+Domain: c9v44g.616b86e6.n41250.drakkarns.com, Count: 1, Query Type: A
+Domain: k0qumd.616b86e6.n29064.drakkarns.com, Count: 1, Query Type: A
+Domain: 1634436838.round2024-01-31.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 500px.com, Count: 1, Query Type: TXT
+Domain: smkds.shop, Count: 1, Query Type: A
+Domain: c1.97-107-134-230.toypk.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: c1.97-107-134-230.fcakl.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: c1.97-107-134-230.pjjkm.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: c1.97-107-134-230.jqnum.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: c1.97-107-134-230.jfsly.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: 1634436838.round2024-01-10.odns.m.dnsscan.top, Count: 1, Query Type: A
+
+Remote clients:
+107.189.29.130 : PONYNET, US
+210.13.77.83   : CUII CHINA UNICOM Industrial Internet Backbone, CN
+199.43.206.245 : FIBERHUB, US
+66.23.234.138  : IS-AS-1, US
+137.184.13.100 : DIGITALOCEAN-ASN, US
+207.90.244.12  : COGENT-174, US
+139.99.46.21   : OVH, FR
+164.92.106.15  : DIGITALOCEAN-ASN, US
+147.182.202.179: DIGITALOCEAN-ASN, US
+147.182.241.81 : DIGITALOCEAN-ASN, US
+193.35.18.13   : PFCLOUD, DE
+34.201.223.157 : AMAZON-AES, US
+35.86.126.229  : AMAZON-02, US
+35.82.51.137   : AMAZON-02, US
+13.59.252.57   : AMAZON-02, US
+44.192.244.168 : AMAZON-AES, US
+44.192.244.225 : AMAZON-AES, US
+35.86.126.178  : AMAZON-02, US
+35.86.126.215  : AMAZON-02, US
+147.182.225.86 : DIGITALOCEAN-ASN, US
+207.90.244.13  : COGENT-174, US
+147.182.247.10 : DIGITALOCEAN-ASN, US
+152.32.139.9   : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+95.214.53.134  : MEVSPACE, PL
+223.113.128.138: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+185.94.111.1   : HLL-AS, RU
+134.209.95.237 : DIGITALOCEAN-ASN, US
+64.226.86.7    : DIGITALOCEAN-ASN, US
+207.90.244.10  : COGENT-174, US
+185.16.39.29   : MEVSPACE, PL
+104.234.70.63  : FIBERSTATE, US
+118.194.236.137: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.193.65.209 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+198.98.52.218  : PONYNET, US
+164.92.114.247 : DIGITALOCEAN-ASN, US
+165.227.188.42 : DIGITALOCEAN-ASN, US
+94.102.61.31   : INT-NETWORK, SC
+165.227.172.206: DIGITALOCEAN-ASN, US
+91.92.245.206  : LIMENET, US
+223.113.128.133: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+185.233.19.253 : HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd., HK
+107.189.14.247 : PONYNET, US
+183.136.225.45 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+47.90.250.21   : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+165.154.174.206: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+45.249.246.199 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.199.20  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.206.247 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.194.238.196: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.245.44  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.164.139 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.129.188: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.158.69  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.227.68  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.206.64  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+8.217.254.174  : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+118.193.36.56  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+93.123.85.80   : MORTALSOFT, GB
+141.95.34.92   : OVH, FR
+152.32.206.246 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.32.235 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.180.86  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.245.93  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.200.22  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.48.24  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+165.154.36.107 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.181.108 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.199.112 : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+118.194.236.118: UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+152.32.159.79  : UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
+64.225.74.178  : DIGITALOCEAN-ASN, US
+167.94.138.35  : CENSYS-ARIN-01, US
+45.128.232.82  : PFCLOUD, DE
+104.223.129.149: LAYER-HOST-HOUSTON, US
+167.94.138.51  : CENSYS-ARIN-01, US
+45.95.169.184  : MAXKO, HR
+207.167.67.186 : DEDIOUTLET-NETWORKS, US
+66.240.219.146 : CARINET, US
+192.87.173.56  : SURFNET-NL SURFnet, The Netherlands, NL
+139.59.170.85  : DIGITALOCEAN-ASN, US
+183.136.225.46 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+147.203.255.20 : AIS-WEST, US
+165.227.110.45 : DIGITALOCEAN-ASN, US
+51.159.103.10  : Online SAS, FR
+185.100.87.136 : FLOKINET, SC
+141.22.28.227  : DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+178.128.32.203 : DIGITALOCEAN-ASN, US
+167.94.138.153 : CENSYS-ARIN-01, US
+52.73.169.169  : AMAZON-AES, US
+2604:a940:301:225:0:f::: GOOGLE-CLOUD-PLATFORM, US
+23.26.60.162   : CATALYSTCLOUD, US
+5.199.162.77   : CHERRYSERVERS1-AS, LT
+185.91.127.66  : FERDINANDZINK, DE
+185.28.39.68   : AS-SERVERION Serverion B.V., NL
+101.68.211.2   : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+64.227.112.120 : DIGITALOCEAN-ASN, US
+2604:a940:301:225:0:10::: GOOGLE-CLOUD-PLATFORM, US
+2.57.122.84    : UNMANAGED-DEDICATED-SERVERS, GB
+131.159.25.7   : TUM-RBG, DE
+
+IP: 146.185.199.62
+Country: Russian Federation 
+Org: EdgeCenter LLC
+
+DNS queries:
+Domain: ns2.dnsedgecenter.com, Count: 2822, Query Type: A, AAAA
+Domain: ns1.dnsedgecenter.com, Count: 2658, Query Type: A, AAAA, SOA
+Domain: ns3.dnsedgecenter.com, Count: 960, Query Type: AAAA
+Domain: ns4.dnsedgecenter.com, Count: 425, Query Type: A, AAAA
+Domain: ns6.dnsedgecenter.com, Count: 411, Query Type: A, AAAA
+Domain: ns5.dnsedgecenter.com, Count: 395, Query Type: A, AAAA
+Domain: dnsedgecenter.com, Count: 294, Query Type: NS, DNSKEY, SOA, AAAA, A, MX, TXT
+Domain: jd.com, Count: 58, Query Type: A
+Domain: direct.shodan.io, Count: 33, Query Type: A
+Domain: ip.parrotdns.com, Count: 14, Query Type: A
+Domain: dnsscan.shadowserver.org, Count: 13, Query Type: A
+Domain: www.google.com, Count: 6, Query Type: A
+Domain: www.DNSEdGEcEnteR.com, Count: 6, Query Type: SOA
+Domain: aaa.stage.15790461.ns1.1U1gpUP5i8KbTVCTq9PeakbLHhZk.com, Count: 5, Query Type: TXT
+Domain: a.root-servers.net, Count: 5, Query Type: A
+Domain: ., Count: 4, Query Type: NS
+Domain: xn--nameservertest.ripe.net, Count: 4, Query Type: A
+Domain: www.baidu.com, Count: 4, Query Type: A
+Domain: xn--nameservertest.iis.se, Count: 4, Query Type: A
+Domain: xn--nameservertest.icann.org, Count: 4, Query Type: A
+Domain: weather.com, Count: 3, Query Type: TXT
+Domain: google.com, Count: 3, Query Type: A
+Domain: babycenter.com, Count: 2, Query Type: TXT
+Domain: cyberresilience.io, Count: 2, Query Type: A
+Domain: rr-mirror.research.nawrocki.berlin, Count: 2, Query Type: A
+Domain: stackoverflow.com, Count: 2, Query Type: A
+Domain: www.wikipedia.org, Count: 2, Query Type: A
+Domain: Ns1.dnSedGeCEnTEr.cOm, Count: 2, Query Type: A6
+Domain: mail.dnsedgecenter.com, Count: 4, Query Type: AAAA, A
+Domain: www.example.com, Count: 2, Query Type: A
+Domain: 92b9c73e.asertdnsresearch.com, Count: 2, Query Type: A
+Domain: lenovo.com, Count: 2, Query Type: TXT
+Domain: gap.com, Count: 2, Query Type: TXT
+Domain: ipv6-hitlist.measr.net, Count: 1, Query Type: AAAA
+Domain: tstng.net, Count: 1, Query Type: A
+Domain: 146.185.199.62.1707735600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: lanacion.com.ar, Count: 1, Query Type: TXT
+Domain: 2461648702.round2024-02-07.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: c1.146-185-199-62.lahho.ipv4.n64.top, Count: 1, Query Type: TXT
+Domain: adriennepeters.eu, Count: 1, Query Type: RRSIG
+Domain: a.gtld-servers.net, Count: 1, Query Type: A
+Domain: cnnic.cn, Count: 1, Query Type: A
+Domain: tmz.com, Count: 1, Query Type: TXT
+Domain: ebay.com, Count: 1, Query Type: TXT
+Domain: baidu.com, Count: 1, Query Type: A
+Domain: dns-test.research.a10protects.com, Count: 1, Query Type: TXT
+Domain: b34roq.92b9c73e.n41250.drakkarns.com, Count: 1, Query Type: A
+Domain: kohls.com, Count: 1, Query Type: TXT
+Domain: realtor.com, Count: 1, Query Type: TXT
+Domain: hm.com, Count: 1, Query Type: TXT
+Domain: _dns.resolver.arpa, Count: 1, Query Type: SVCB
+
+Remote clients:
+184.105.143.152: HURRICANE, US
+45.148.10.241  : PPTECHNOLOGY, GB
+217.12.97.15   : ALFA-BANK-AS, RU
+154.9.3.118    : COGENT-174, US
+64.62.197.243  : HURRICANE, US
+64.62.197.242  : HURRICANE, US
+65.49.51.58    : HURRICANE, US
+3.101.240.156  : AMAZON-02, US
+18.144.163.0   : AMAZON-02, US
+159.89.146.198 : DIGITALOCEAN-ASN, US
+167.99.113.115 : DIGITALOCEAN-ASN, US
+134.209.78.125 : DIGITALOCEAN-ASN, US
+172.68.9.191   : CLOUDFLARENET, US
+195.158.0.1    : BRM-AS, UZ
+157.245.84.197 : DIGITALOCEAN-ASN, US
+192.87.30.43   : SURFNET-NL SURFnet, The Netherlands, NL
+147.182.176.17 : DIGITALOCEAN-ASN, US
+2001:610:1120:1:f816:3eff:febd:9c0e: SURFNET-NL SURFnet, The Netherlands, NL
+67.205.148.18  : DIGITALOCEAN-ASN, US
+192.87.30.42   : SURFNET-NL SURFnet, The Netherlands, NL
+2001:610:1120:1:f816:3eff:fec3:42da: SURFNET-NL SURFnet, The Netherlands, NL
+192.87.30.38   : SURFNET-NL SURFnet, The Netherlands, NL
+2001:610:1120:1:f816:3eff:fef2:2148: SURFNET-NL SURFnet, The Netherlands, NL
+192.87.30.47   : SURFNET-NL SURFnet, The Netherlands, NL
+185.30.97.154  : MIXTELECOM-AS, RU
+172.68.9.31    : CLOUDFLARENET, US
+192.87.30.62   : SURFNET-NL SURFnet, The Netherlands, NL
+2001:610:1120:1:f816:3eff:fec0:d766: SURFNET-NL SURFnet, The Netherlands, NL
+137.184.209.149: DIGITALOCEAN-ASN, US
+142.93.57.224  : DIGITALOCEAN-ASN, US
+194.54.148.8   : MTSNET Moscow, Russia, RU
+185.30.97.146  : MIXTELECOM-AS, RU
+2001:1608:10:25::1c04:b12f: DE-FIRSTCOLO www.first-colo.net, DE
+185.30.97.153  : MIXTELECOM-AS, RU
+84.200.70.40   : DE-FIRSTCOLO www.first-colo.net, DE
+192.87.30.53   : SURFNET-NL SURFnet, The Netherlands, NL
+2001:610:1120:1:f816:3eff:fe5b:725d: SURFNET-NL SURFnet, The Netherlands, NL
+65.108.87.118  : HETZNER-AS, DE
+2001:610:1120:1:f816:3eff:fe90:4740: SURFNET-NL SURFnet, The Netherlands, NL
+107.189.29.130 : PONYNET, US
+84.17.44.209   : CDN77 _, GB
+198.98.54.58   : PONYNET, US
+2a01:4f9:1a:a64c::2: HETZNER-AS, DE
+193.163.125.254: INTERNET-MEASUREMENT, GB
+65.108.226.87  : HETZNER-AS, DE
+119.28.138.17  : TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+193.232.132.82 : RIPN-SU-NET, RU
+172.253.9.197  : GOOGLE, US
+2001:1608:10:25::9249:d69b: DE-FIRSTCOLO www.first-colo.net, DE
+193.232.160.50 : RIPN-NS5-RU-MSK, RU
+87.236.176.254 : INTERNET-MEASUREMENT, GB
+74.125.181.129 : GOOGLE, US
+85.175.165.106 : ROSTELECOM-AS, RU
+37.18.143.20   : SURE-INTERNATIONAL-LIMITED, GB
+172.253.0.4    : GOOGLE, US
+172.253.231.133: GOOGLE, US
+74.125.181.132 : GOOGLE, US
+172.253.9.194  : GOOGLE, US
+198.41.241.23  : CLOUDFLARENET, US
+172.253.0.5    : GOOGLE, US
+172.253.0.1    : GOOGLE, US
+167.71.236.204 : DIGITALOCEAN-ASN, US
+66.23.234.138  : IS-AS-1, US
+2a02:6b8:c0e:10d:0:433f:1:17: TELETECH, RS
+172.253.9.193  : GOOGLE, US
+172.68.9.33    : CLOUDFLARENET, US
+172.253.9.195  : GOOGLE, US
+5.45.234.203   : TELETECH, RS
+172.253.2.3    : GOOGLE, US
+167.71.226.248 : DIGITALOCEAN-ASN, US
+74.125.181.133 : GOOGLE, US
+95.163.246.120 : AS-REG, RU
+216.218.230.82 : HURRICANE, US
+2a02:6b8:c0e:103:0:433f:1:24: TELETECH, RS
+172.253.1.1    : GOOGLE, US
+74.125.181.131 : GOOGLE, US
+212.211.132.5  : SCAN-PLUS-AS q.beyond AG, DE
+89.107.96.204  : BTCOM, KZ
+193.232.160.51 : RIPN-NS5-RU-MSK, RU
+172.253.231.132: GOOGLE, US
+147.182.225.86 : DIGITALOCEAN-ASN, US
+143.244.43.194 : CDN77 _, GB
+74.125.181.130 : GOOGLE, US
+2400:cb00:87:1024::ac44:9c1: CLOUDFLARENET, US
+37.140.164.22  : TELETECH, RS
+2a04:e4c0:48::64: OPENDNS, US
+93.158.165.167 : TELETECH, RS
+2a02:6b8:c02:707:0:433f:1:7: TELETECH, RS
+193.232.132.81 : RIPN-SU-NET, RU
+172.253.1.4    : GOOGLE, US
+172.253.9.196  : GOOGLE, US
+38.21.200.97   : FORTINET, US
+72.52.83.14    : HURRICANE, US
+2a02:6b8:c0e:103:0:433f:1:3: TELETECH, RS
+172.253.231.131: GOOGLE, US
+2a02:6b8:c02:707:0:433f:1:3: TELETECH, RS
+93.158.131.142 : TELETECH, RS
+216.31.16.13   : TEAM-CYMRU, US
+93.158.162.125 : TELETECH, RS
+
+IP: 66.135.28.97
+Country: United States 
+Org: The Constant Company, LLC
+
+DNS queries:
+Domain: ip.parrotdns.com, Count: 4, Query Type: A
+Domain: dnsscan.shadowserver.org, Count: 3, Query Type: A
+Domain: a.root-servers.net, Count: 3, Query Type: A
+Domain: baidu.com, Count: 2, Query Type: A
+Domain: adriennepeters.eu, Count: 1, Query Type: RRSIG
+Domain: www.wikipedia.org, Count: 1, Query Type: A
+Domain: a.gtld-servers.net, Count: 1, Query Type: A
+Domain: www.cybergreen.net, Count: 1, Query Type: A
+Domain: tstng.net, Count: 1, Query Type: A
+Domain: 66.135.28.97.1707735600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: rr-mirror.research.nawrocki.berlin, Count: 1, Query Type: A
+Domain: www.baidu.com, Count: 1, Query Type: A
+Domain: aaa.stage.15790461.ns1.1U1gpUP5i8KbTVCTq9PeakbLHhZk.com, Count: 1, Query Type: TXT
+Domain: 42871c61.asertdnsresearch.com, Count: 1, Query Type: A
+Domain: www.example.com, Count: 1, Query Type: A
+Domain: www.google.com, Count: 1, Query Type: A
+Domain: google.com, Count: 1, Query Type: A
+
+Remote clients:
+121.5.43.11    : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+106.54.160.72  : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+45.148.10.241  : PPTECHNOLOGY, GB
+58.251.120.12  : UNICOM-SHENZHEN-IDC China Unicom Guangdong IP network, CN
+157.255.172.12 : UNICOM-SHENZHEN-IDC China Unicom Guangdong IP network, CN
+58.251.121.12  : UNICOM-SHENZHEN-IDC China Unicom Guangdong IP network, CN
+81.69.189.116  : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+121.5.113.118  : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+121.4.179.25   : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+42.192.196.165 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+58.217.249.148 : CHINANET-BACKBONE No.31,Jin-rong Street, CN
+101.35.153.118 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+113.96.17.244  : CHINANET-BACKBONE No.31,Jin-rong Street, CN
+43.139.151.236 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+157.90.113.217 : HETZNER-AS, DE
+49.234.42.74   : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+167.235.193.35 : HETZNER-AS, DE
+43.139.184.253 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+157.90.17.161  : HETZNER-AS, DE
+212.129.247.82 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+42.192.1.223   : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+95.217.161.107 : HETZNER-AS, DE
+116.203.183.234: HETZNER-AS, DE
+3.231.205.66   : AMAZON-AES, US
+116.203.186.235: HETZNER-AS, DE
+121.4.139.17   : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+106.54.165.106 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+42.192.197.192 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+101.91.43.57   : CHINANET-SH-AP China Telecom Group, CN
+65.108.157.36  : HETZNER-AS, DE
+112.81.16.146  : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+167.235.240.138: HETZNER-AS, DE
+117.35.58.186  : CHINANET-BACKBONE No.31,Jin-rong Street, CN
+112.81.16.158  : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+60.215.138.167 : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+183.246.14.13  : CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
+1.14.59.114    : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+95.217.194.43  : HETZNER-AS, DE
+49.234.123.177 : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+81.71.99.228   : TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+220.196.152.50 : UNICOM-SHFT-IDC China Unicom Shanghai FuTe IDC network, CN
+220.196.152.40 : UNICOM-SHFT-IDC China Unicom Shanghai FuTe IDC network, CN
+210.22.240.12  : UNICOM-SHFT-IDC China Unicom Shanghai FuTe IDC network, CN
+112.17.46.89   : CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
+45.32.224.252  : AS-CHOOPA, US
+172.71.169.90  : CLOUDFLARENET, US
+162.158.101.194: CLOUDFLARENET, US
+162.158.101.196: CLOUDFLARENET, US
+145.102.6.122  : SURFNET-NL SURFnet, The Netherlands, NL
+66.185.117.249 : WOODYNET-1, US
+172.71.157.85  : CLOUDFLARENET, US
+162.158.101.195: CLOUDFLARENET, US
+37.27.65.148   : HETZNER-AS, DE
+162.158.101.193: CLOUDFLARENET, US
+104.207.157.76 : AS-CHOOPA, US
+145.102.6.101  : SURFNET-NL SURFnet, The Netherlands, NL
+145.102.6.137  : SURFNET-NL SURFnet, The Netherlands, NL
+66.185.117.248 : WOODYNET-1, US
+66.185.117.250 : WOODYNET-1, US
+212.227.22.111 : IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+104.207.158.151: AS-CHOOPA, US
+34.205.135.105 : AMAZON-AES, US
+3.236.164.72   : AMAZON-AES, US
+23.132.96.223  : IGLOO22225 igloo22225, US
+193.70.33.130  : OVH, FR
+130.226.87.80  : FSKNET-DK Forskningsnettet - Danish network for Research and Education, EU
+66.23.234.138  : IS-AS-1, US
+35.195.191.113 : GOOGLE-CLOUD-PLATFORM, US
+66.185.114.247 : WOODYNET-1, US
+34.150.230.121 : GOOGLE-CLOUD-PLATFORM, US
+8.9.4.198      : AS-CHOOPA, US
+3.101.230.167  : AMAZON-02, US
+172.71.153.80  : CLOUDFLARENET, US
+172.69.57.223  : CLOUDFLARENET, US
+35.245.106.239 : GOOGLE-CLOUD-PLATFORM, US
+157.245.222.108: DIGITALOCEAN-ASN, US
+52.89.5.5      : AMAZON-02, US
+129.146.13.45  : ORACLE-BMC-31898, US
+35.166.193.154 : AMAZON-02, US
+146.190.55.130 : DIGITALOCEAN-ASN, US
+74.63.17.249   : WOODYNET-1, US
+162.158.173.215: CLOUDFLARENET, US
+107.191.62.10  : AS-CHOOPA, US
+162.158.247.225: CLOUDFLARENET, US
+142.93.161.120 : DIGITALOCEAN-ASN, US
+162.158.247.224: CLOUDFLARENET, US
+172.68.25.224  : CLOUDFLARENET, US
+156.154.77.146 : SECURITYSERVICES, US
+172.69.133.77  : CLOUDFLARENET, US
+172.71.153.79  : CLOUDFLARENET, US
+65.154.226.165 : PAN0001, US
+108.181.27.205 : AS40676, US
+172.69.21.31   : CLOUDFLARENET, US
+135.181.163.201: HETZNER-AS, DE
+47.106.96.109  : ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+3.101.240.72   : AMAZON-02, US
+162.158.165.121: CLOUDFLARENET, US
+93.158.164.103 : TELETECH, RS
+172.71.157.84  : CLOUDFLARENET, US
+
+IP: 104.251.211.137
+Country: United States 
+Org: Nodisto IT, LLC
+
+DNS queries:
+Domain: testip.internet-census.org, Count: 141, Query Type: A
+Domain: jd.com, Count: 126, Query Type: A
+Domain: dnsscan.shadowserver.org, Count: 109, Query Type: A
+Domain: www.google.com, Count: 66, Query Type: A
+Domain: www.solidot.org, Count: 62, Query Type: A
+Domain: bootstrap.api.drift.com, Count: 48, Query Type: A
+Domain: www.wikipedia.org, Count: 46, Query Type: A
+Domain: 68fbd389.asertdnsresearch.com, Count: 36, Query Type: A
+Domain: cyberresilience.io, Count: 34, Query Type: A
+Domain: direct.shodan.io, Count: 33, Query Type: A
+Domain: 68fbd389-202401232-1000ps-rate.l-rate.secshow.net, Count: 24, Query Type: A
+Domain: www.baidu.com, Count: 24, Query Type: A
+Domain: google.com, Count: 34, Query Type: A, TXT, AAAA
+Domain: rr-mirror.research.nawrocki.berlin, Count: 20, Query Type: A
+Domain: aaa.stage.15790461.ns1.1U1gpUP5i8KbTVCTq9PeakbLHhZk.com, Count: 18, Query Type: TXT
+Domain: clients1.google.com, Count: 17, Query Type: A
+Domain: microsoft.com, Count: 16, Query Type: TXT
+Domain: a.gtld-servers.net, Count: 16, Query Type: A
+Domain: a.root-servers.net, Count: 16, Query Type: A
+Domain: dns-test.research.a10protects.com, Count: 15, Query Type: TXT
+Domain: weather.com, Count: 15, Query Type: TXT
+Domain: gap.com, Count: 15, Query Type: TXT
+Domain: www.cybergreen.net, Count: 15, Query Type: A
+Domain: whitepages.com, Count: 15, Query Type: TXT
+Domain: 500px.com, Count: 14, Query Type: TXT
+Domain: box.com, Count: 13, Query Type: TXT
+Domain: macys.com, Count: 13, Query Type: TXT
+Domain: chase.com, Count: 13, Query Type: TXT
+Domain: bodybuilding.com, Count: 13, Query Type: TXT
+Domain: tmz.com, Count: 13, Query Type: TXT
+Domain: lanacion.com.ar, Count: 13, Query Type: TXT
+Domain: www.yahoo.com, Count: 12, Query Type: A
+Domain: fiverr.com, Count: 12, Query Type: TXT
+Domain: nordstrom.com, Count: 11, Query Type: TXT
+Domain: priceline.com, Count: 10, Query Type: TXT
+Domain: lenovo.com, Count: 10, Query Type: TXT
+Domain: hp.com, Count: 9, Query Type: TXT
+Domain: nokia.com, Count: 9, Query Type: TXT
+Domain: kohls.com, Count: 9, Query Type: TXT
+Domain: chron.com, Count: 9, Query Type: TXT
+Domain: hm.com, Count: 8, Query Type: TXT
+Domain: comcast.com, Count: 8, Query Type: TXT
+Domain: tstng.net, Count: 8, Query Type: A
+Domain: coupons.com, Count: 7, Query Type: TXT
+Domain: overseas.104.251.211.137.0.test.whitechun.lol, Count: 7, Query Type: A
+Domain: _dns.resolver.arpa, Count: 7, Query Type: TYPE64
+Domain: babycenter.com, Count: 6, Query Type: TXT
+Domain: realtor.com, Count: 6, Query Type: TXT
+Domain: www.example.com, Count: 6, Query Type: A
+Domain: github.com, Count: 6, Query Type: A
+Domain: 68fbd389.example.com, Count: 5, Query Type: A
+Domain: ebay.com, Count: 5, Query Type: TXT
+Domain: ., Count: 9, Query Type: NS, A
+Domain: wired.com, Count: 4, Query Type: TXT
+Domain: cnnic.cn, Count: 4, Query Type: A
+Domain: aaa.stage.no.offence, Count: 4, Query Type: TXT
+Domain: baidu.com, Count: 2, Query Type: A
+Domain: 1761334153.round2023-12-20.odns.m.dnsscan.top, Count: 2, Query Type: A
+Domain: 68fbd389-202401051.l.secshow.net, Count: 2, Query Type: A
+Domain: v2z.ru, Count: 2, Query Type: A
+Domain: 68fbd389.d1201.savme.xyz, Count: 2, Query Type: A
+Domain: example.com, Count: 2, Query Type: A
+Domain: pizzaseo.com, Count: 2, Query Type: RRSIG
+Domain: amazon.com, Count: 2, Query Type: A
+Domain: ta6.ch, Count: 2, Query Type: A
+Domain: payoneer.com, Count: 2, Query Type: TXT
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.40184405-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: 104.251.211.137.1698663600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1707735600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1701687600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1707130800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1701082800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1704106800.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1699268400.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.30184405-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.20184405-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: l24.l23.l22.l21.l20.l19.l18.l17.l16.l15.l14.l13.l12.l11.l10.l9.l8.l7.l6.l5.l4.10184405-jan14.fpdns.se, Count: 1, Query Type: A
+Domain: 21b29ac0.openresolvertest.net, Count: 1, Query Type: A
+Domain: 104.251.211.137.1704711600.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 1761334153.round2023-12-27.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 104.251.211.137.1705316400.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1702292400.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1702897200.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1699873200.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1705921200.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1700478000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1706526000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 104.251.211.137.1703502000.main.research.openresolve.rs, Count: 1, Query Type: A
+Domain: 1704093906.68FBD389.2024-01-01-00-02-NXD.open-resolver-scan.research.icann.org, Count: 1, Query Type: TXT
+Domain: 1761334153.round2023-11-29.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 1761334153.round2023-11-08.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 1761334153.round2023-11-15.odns.m.dnsscan.top, Count: 1, Query Type: A
+Domain: 68fbd389-202401161.l.secshow.net, Count: 1, Query Type: A
+Domain: ad, Count: 1, Query Type: SOA
+Domain: version.bind, Count: 1, Query Type: A
+Domain: adriennepeters.eu, Count: 1, Query Type: RRSIG
+
+Remote clients:
+199.195.252.122: PONYNET, US
+185.16.39.29   : MEVSPACE, PL
+198.98.54.58   : PONYNET, US
+153.35.100.170 : UNICOM-JSWX-IDC UNICOM JiangSu WuXi IDC network, CN
+139.99.46.21   : OVH, FR
+199.43.206.245 : FIBERHUB, US
+107.189.29.130 : PONYNET, US
+27.50.59.125   : BCPL-SG BGPNET Global ASN, SG
+104.251.211.138: NODISTO, US
+95.214.53.134  : MEVSPACE, PL
+70.70.70.3     : SHAW, CA
+185.233.19.253 : HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd., HK
+66.23.234.138  : IS-AS-1, US
+185.94.111.1   : HLL-AS, RU
+185.91.127.66  : FERDINANDZINK, DE
+104.234.254.138: US-CLOUDNIUM-01, US
+141.255.165.66 : PLI-AS, PA
+51.222.104.47  : OVH, FR
+193.35.18.13   : PFCLOUD, DE
+107.189.29.187 : PONYNET, US
+183.136.225.45 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+183.136.225.44 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+119.6.237.40   : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+192.87.173.56  : SURFNET-NL SURFnet, The Netherlands, NL
+131.159.25.7   : TUM-RBG, DE
+207.90.244.6   : COGENT-174, US
+147.203.255.20 : AIS-WEST, US
+104.223.16.163 : PACIFICRACK, US
+101.68.211.2   : CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+141.22.28.227  : DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+52.73.169.169  : AMAZON-AES, US
+183.56.226.11  : CHINANET-BACKBONE No.31,Jin-rong Street, CN
+93.123.85.80   : MORTALSOFT, GB
+183.136.225.29 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+146.88.241.220 : ARBOR, US
+195.221.58.3   : FR-RENATER Reseau National de telecommunications pour la Technologie, FR
+104.234.70.63  : FIBERSTATE, US
+167.94.138.127 : CENSYS-ARIN-01, US
+167.94.138.33  : CENSYS-ARIN-01, US
+146.88.241.230 : ARBOR, US
+183.136.225.46 : CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+119.167.222.135: CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+155.94.182.52  : PACIFICRACK, US
+223.113.128.138: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+91.92.241.127  : LIMENET, US
+167.94.138.125 : CENSYS-ARIN-01, US
+167.94.138.35  : CENSYS-ARIN-01, US
+167.94.138.36  : CENSYS-ARIN-01, US
+162.142.125.13 : CENSYS-ARIN-01, US
+198.98.52.218  : PONYNET, US
+104.148.16.45  : LAYER-HOST, US
+93.115.29.61   : CHERRYSERVERS1-AS, LT
+167.248.133.126: CENSYS-ARIN-01, US
+162.142.125.215: CENSYS-ARIN-01, US
+94.102.61.21   : INT-NETWORK, SC
+91.92.245.206  : LIMENET, US
+91.92.243.238  : LIMENET, US
+193.35.18.23   : PFCLOUD, DE
+223.113.128.133: CMNET-JIANGSU-AP China Mobile communications corporation, CN
+37.187.122.133 : OVH, FR
+46.19.139.138  : PLI-AS, PA
+179.43.145.194 : PLI-AS, PA
+146.88.241.231 : ARBOR, US
+216.158.231.46 : IS-AS-1, US
+71.6.146.186   : CARINET, US
+167.94.138.49  : CENSYS-ARIN-01, US
+185.233.19.242 : HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd., HK
+162.142.125.216: CENSYS-ARIN-01, US
+167.94.138.52  : CENSYS-ARIN-01, US
+71.6.134.232   : CARINET, US
+149.129.147.213: ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+185.88.175.19  : MERT-TURKOGLU-DATAHOST-INTERNET-VE-BILISIM-TEKNOLOJILERI, TR
+167.248.133.35 : CENSYS-ARIN-01, US
+167.94.138.126 : CENSYS-ARIN-01, US
+89.248.167.158 : INT-NETWORK, SC
+107.189.14.247 : PONYNET, US
+8.217.254.174  : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+71.6.199.23    : CARINET, US
+163.5.169.7    : VIRTUO, CA
+155.94.156.208 : PACIFICRACK, US
+84.54.51.18    : PFCLOUD, DE
+174.138.40.30  : DIGITALOCEAN-ASN, US
+47.243.197.153 : ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+64.112.72.102  : DEDIOUTLET-NETWORK-PHX, US
+128.14.209.30  : ZEN-ECN, US
+45.10.22.85    : FIBERHUB, US
+167.248.133.186: CENSYS-ARIN-01, US
+167.94.138.50  : CENSYS-ARIN-01, US
+167.248.133.50 : CENSYS-ARIN-01, US
+45.128.232.82  : PFCLOUD, DE
+167.94.138.51  : CENSYS-ARIN-01, US
+167.94.138.34  : CENSYS-ARIN-01, US
+167.248.133.39 : CENSYS-ARIN-01, US
+162.142.125.224: CENSYS-ARIN-01, US
+71.6.134.235   : CARINET, US
+45.150.131.78  : CAT-CLOUD-AP CAT Telecom Public Company Limited, TH
+91.92.250.158  : LIMENET, US
+71.6.134.231   : CARINET, US
+45.13.119.147  : AS-DYJIX, FR
+
+Common DNS clients:
+210.13.77.83 seen in resolvers: 167.172.48.156, 97.107.134.230
+198.98.54.58 seen in resolvers: 167.172.48.156, 146.185.199.62, 104.251.211.137
+107.189.29.130 seen in resolvers: 167.172.48.156, 97.107.134.230, 146.185.199.62, 104.251.211.137
+185.16.39.29 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+199.43.206.245 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+66.23.234.138 seen in resolvers: 167.172.48.156, 97.107.134.230, 146.185.199.62, 66.135.28.97, 104.251.211.137
+95.214.53.134 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+199.195.252.122 seen in resolvers: 167.172.48.156, 104.251.211.137
+185.94.111.1 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+193.35.18.13 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+139.99.46.21 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+185.233.19.253 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+223.113.128.138 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+94.102.61.31 seen in resolvers: 167.172.48.156, 97.107.134.230
+8.217.254.174 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+104.234.70.63 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+198.98.52.218 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+185.91.127.66 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+183.136.225.44 seen in resolvers: 167.172.48.156, 104.251.211.137
+183.136.225.45 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+91.92.245.206 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+93.123.85.80 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+101.68.211.2 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+141.22.28.227 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+147.203.255.20 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+45.95.169.184 seen in resolvers: 167.172.48.156, 97.107.134.230
+107.189.29.187 seen in resolvers: 167.172.48.156, 104.251.211.137
+167.94.138.49 seen in resolvers: 167.172.48.156, 104.251.211.137
+131.159.25.7 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+192.87.173.56 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+52.73.169.169 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+104.148.16.45 seen in resolvers: 167.172.48.156, 104.251.211.137
+107.189.14.247 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+195.221.58.3 seen in resolvers: 167.172.48.156, 104.251.211.137
+185.100.87.136 seen in resolvers: 167.172.48.156, 97.107.134.230
+167.94.138.52 seen in resolvers: 167.172.48.156, 104.251.211.137
+183.136.225.46 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+179.43.145.194 seen in resolvers: 167.172.48.156, 104.251.211.137
+167.94.138.127 seen in resolvers: 167.172.48.156, 104.251.211.137
+47.90.250.21 seen in resolvers: 167.172.48.156, 97.107.134.230
+223.113.128.133 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+167.94.138.125 seen in resolvers: 167.172.48.156, 104.251.211.137
+45.150.131.78 seen in resolvers: 167.172.48.156, 104.251.211.137
+118.194.238.196 seen in resolvers: 167.172.48.156, 97.107.134.230
+119.167.222.135 seen in resolvers: 167.172.48.156, 104.251.211.137
+45.128.232.82 seen in resolvers: 167.172.48.156, 97.107.134.230, 104.251.211.137
+216.158.231.46 seen in resolvers: 167.172.48.156, 104.251.211.137
+146.88.241.220 seen in resolvers: 167.172.48.156, 104.251.211.137
+147.182.225.86 seen in resolvers: 97.107.134.230, 146.185.199.62
+167.94.138.35 seen in resolvers: 97.107.134.230, 104.251.211.137
+167.94.138.51 seen in resolvers: 97.107.134.230, 104.251.211.137
+45.148.10.241 seen in resolvers: 146.185.199.62, 66.135.28.97
