@@ -24,7 +24,11 @@ Installation
 
 3. python3 powerDNScout.py (-j for json output)
 
-Example output:
+Example outputs in ascii and json:
+https://github.com/tweeksf/powerDNScout/blob/main/logs/open_powerdns_resolvers_20240212.txt.example
+https://github.com/tweeksf/powerDNScout/blob/main/logs/open_powerdns_resolvers_20240212.json.example
+
+Example output snippet:
 
 IP: 146.185.199.62
 Country: Russian Federation 
