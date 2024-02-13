@@ -11,9 +11,8 @@ import json
 import requests
 import socks 
 import socket
-import subprocess
+from cymruwhois import Client
 from datetime import datetime
-from ipwhois import IPWhois
 from bs4 import BeautifulSoup
 from shodan import Shodan
 import concurrent.futures
@@ -47,15 +46,12 @@ def shodan_search(api_key):
 # Fetch WHOIS information for discovered DNS client IPs
 def fetch_whois(remote_ip):
     try:
-        result = subprocess.run(['whois', '-h', 'whois.cymru.com', remote_ip], capture_output=True, text=True)
-        lines = result.stdout.split('\n')
-        if len(lines) > 1:
-            as_info = lines[1].split('|')
-            if len(as_info) == 3:
-                return remote_ip, {'AS': as_info[0].strip(), 'IP': as_info[1].strip(), 'AS Name': as_info[2].strip()}
+        c = Client()
+        r = c.lookup(remote_ip)
+        return remote_ip, {'AS': r.asn, 'IP': r.prefix, 'AS Name': r.owner}
     except Exception as e:
         print(f"Could not get WHOIS for {remote_ip}: {e}")
-    return remote_ip, None
+        return remote_ip, None
 
 # Fetch DNS queries and client IPs from open PowerDNS resolvers
 def fetch_dns_queries(ip_dict, use_socks, socks_proxy):
@@ -148,7 +144,7 @@ def print_summary(ip_dict, filename, json_format):
             f.write("\nCommon DNS clients:\n")
             for remote_ip, ips in common_remote_ips.items():
                 if len(ips) > 1:
-                    f.write(f"{remote_ip} seen in resolvers: {', '.join(ips)}\n")
+                    f.write(f"{remote_ip:<15} seen in resolvers: {', '.join(ips)}\n")
 
 # Main
 def main():
