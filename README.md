@@ -1,19 +1,31 @@
+```
 PowerDNScout
-<hr>
-Crawls all publicly accessible PowerDNS systems for DNS queries seen by the open resolver. <br>
-<br>
-- Discovery via Shodan<br>
 
-- https://www.shodan.io/search?query=%22PowerDNS+Authoritative+Server+Monitor%22
-<br>
+Crawls all publicly accessible PowerDNS systems for DNS queries seen by the open resolver.
+
+- Discovery via Shodan
+  - https://www.shodan.io/search?query=%22PowerDNS+Authoritative+Server+Monitor%22
 - SOCKS5 capable 
-<br>
-- Ouputs in ascii or json formats. 
-<br>
-<br>
+- Ouputs in ascii or json formats.
+
+Installation
+
+1. pip3 install -r requirements.txt
+2. edit config.json and add Shodan API key and tune proxy settings.
+
+{
+    "SHODAN_API_KEY": "YOUR_SHODAN_API_KEY",
+    "use_socks": true,
+    "socks_proxy": {
+        "host": "localhost",
+        "port": 9150
+    }
+}
+
+3. python3 powerDNScout.py (-j for json output)
+
 Example output:
 
-```
 IP: 146.185.199.62
 Country: Russian Federation 
 Org: EdgeCenter LLC
