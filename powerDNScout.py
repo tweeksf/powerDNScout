@@ -51,7 +51,7 @@ def fetch_whois(remote_ip):
         return remote_ip, {'AS': r.asn, 'IP': r.prefix, 'AS Name': r.owner}
     except Exception as e:
         print(f"Could not get WHOIS for {remote_ip}: {e}")
-        return remote_ip, None
+        return remote_ip, {}
 
 # Fetch DNS queries and client IPs from open PowerDNS resolvers
 def fetch_dns_queries(ip_dict, use_socks, socks_proxy):
