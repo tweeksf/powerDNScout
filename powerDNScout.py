@@ -133,7 +133,7 @@ def print_summary(ip_dict, filename, json_format):
                 f.write(f"Country: {info['country']} \nOrg: {info['org']}\n\n")
                 f.write("DNS queries:\n")
                 for query, data in info.get('dns_queries', {}).items():
-                    f.write(f"Domain: {query}, Count: {data['count']}, Query Type: {', '.join(data['query_type'])}\n")
+                    f.write(f"{query}, Count: {data['count']}, Query Type: {', '.join(data['query_type'])}\n")
                 f.write("\nRemote clients:\n")
                 for remote_ip, data in info.get('remotes', {}).items():
                     f.write(f"{remote_ip:<15}: {data.get('whois', {}).get('AS Name', 'N/A')}\n")
