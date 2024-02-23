@@ -80,7 +80,10 @@ def fetch_dns_queries(ip_dict, use_socks, socks_proxy):
                             key = cols[0].text.strip()
                             if key == "Total:" or key == "Rest:":
                                 continue
-                            value = int(cols[1].text.strip())
+                            try:
+                                value = int(cols[1].text.strip())
+                            except ValueError:
+                                continue
                             if '/' in key:
                                 domain, query_type, *_ = key.split('/')
                                 if domain not in data:
